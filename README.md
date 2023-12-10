@@ -1,3 +1,9 @@
-# C-final-project
+# Map app       
+### Kalmyrza Zholchubekov com-20
+***
+Interactive Map: An application that displays an interactive map  
+with the ability to zoom, add pins, and search for locations
 
-**https://www.youtube.com/watch?v=fzgKmHzBWic&list=PLge_oNJswtYvVc7WxWrhchWFJoepjCSHy**
+### Screenshots
+
+
